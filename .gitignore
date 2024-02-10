@@ -1,3 +1,5 @@
 *.gdoc
 *.ini
 *.docx
+.ipynb_checkpoints
+.virtual_documents
